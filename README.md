@@ -9,4 +9,5 @@ Specs for Dell inspiron 15 3558 are :-
 4. GPU: Intel HD Graphics 5500
 5. Wifi/Bluetooth: Intel AC3160
 6. Sound: ALC3234(Intel Broadwell HDMI Audio)
-   
+
+![Alt text](screenshot.png "screenshot")
