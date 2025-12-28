@@ -2,7 +2,7 @@
 EFI for Dell Inspiron 15 3558 for hackintosh macOS Monterey.  
 The above EFI folder also includes kexts for wifi, bluetooth,etc.
 
-Note:- This repo is not going to be maintained any more as I don't have the old laptop anymore.
+Note:- This repo is not going to be maintained any more.
 
 Specs of my Dell inspiron 15 3558 are :-
 1. CPU: corei3 5005u
